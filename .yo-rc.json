@@ -1,0 +1,11 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": true,
+    "importedSpec": "/Users/pampers/dev/ambition-booster-api/api/swagger/swagger.yaml",
+    "name": "Ambition Booster",
+    "repo": "panchan9/Ambition-Booster-API-Spec",
+    "splitSpec": false,
+    "samples": true,
+    "installSwaggerUI": true
+  }
+}
